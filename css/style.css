@@ -1,3 +1,174 @@
 * {
     font-family: 'Open Sans', sans-serif;
 }
+
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    background-color: #e5e5e5;
+}
+
+.wrapper {
+
+}
+
+.header {
+
+}
+
+.header__menu {
+
+}
+
+.header__menu-ul {
+
+}
+
+.header__menu-li {
+
+}
+
+.header__line {
+
+}
+
+.header__my-name {
+
+}
+
+.header__name {
+
+}
+
+.header__spec {
+
+}
+
+.header__lang {
+
+}
+
+.header__foto {
+
+}
+
+.header__foto-img {
+
+}
+
+.about-me {
+
+}
+
+.about-me__title {
+
+}
+
+.about-me__text {
+
+}
+
+.about-me__text-p {
+
+}
+
+.skills {
+
+}
+
+.skills__title {
+
+}
+
+.skills__text {
+
+}
+
+.skills__text-p {
+
+}
+
+.skills__list {
+
+}
+
+.skills__list-item {
+
+}
+
+.skills__list-foto {
+
+}
+
+.skills__list-img {
+
+}
+
+.skills__list-name {
+
+}
+
+.portfolio {
+
+}
+
+.portfolio__title {
+
+}
+
+.portfolio__foto {
+
+}
+
+.portfolio__foto-img {
+
+}
+
+.portfolio__link {
+
+}
+
+.portfolio__link-a {
+
+}
+
+.footer {
+
+}
+
+.footer__title {
+
+}
+
+.footer__text {
+
+}
+
+.footer__button {
+
+}
+
+.footer__button-send {
+
+}
+
+.footer__social {
+
+}
+
+.footer__social_items {
+
+}
+
+.footer__social-item {
+
+}
+
+.footer__social-img {
+
+}
+
+.footer__social-names {
+    
+}
